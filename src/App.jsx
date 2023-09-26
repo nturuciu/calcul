@@ -55,7 +55,7 @@ function App() {
     </div>
         <div className="flex items-center gap-1 justify-center flex-wrap">
 <button onClick={clear} className="w-16 h-16 rounded-full bg-yellow-600"> AC</button>
-<button onClick= {handleOperator} className="w-16 h-16 rounded-full bg-yellow-600"> +/-</button>git 
+<button onClick= {handleOperator} className="w-16 h-16 rounded-full bg-yellow-600"> +/-</button>
 <button onClick= {percentage} className="w-16 h-16 rounded-full bg-yellow-600">%</button>
 <button onClick= {handleOperator}className="w-16 h-16 rounded-full bg-yellow-600">/</button>
 <button onClick= {handleNum} className="w-16 h-16 rounded-full bg-gray-600">7</button>
